@@ -1,0 +1,5 @@
+*/node_modules/*
+*/dist/*
+
+# 只用yarn进行依赖安装
+package-lock.json
